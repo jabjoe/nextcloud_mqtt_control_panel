@@ -1,6 +1,6 @@
 {
-    "name": "MQTT Control Pannel",
-    "description": "MQTT control pannel to view and send events",
+    "name": "nextcloud/mqtt-control-panel",
+    "description": "MQTT control panel to view and send events",
     "type": "project",
     "license": "AGPL",
     "authors": [
