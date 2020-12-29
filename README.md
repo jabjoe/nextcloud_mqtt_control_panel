@@ -1,4 +1,4 @@
-# M Q T Tcontrol Pannel
+# MQTT Control Pannel
 Place this app in **nextcloud/apps/**
 
 ## Building the app
