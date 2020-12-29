@@ -2,7 +2,7 @@
 <info xmlns:xsi= "http://www.w3.org/2001/XMLSchema-instance"
       xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
     <id>mqttcontrolpannel</id>
-    <name>M Q T Tcontrol Pannel</name>
+    <name>Mqtt Control Pannel</name>
     <summary>Mqtt control pannel to view and send events</summary>
     <description><![CDATA[Mqtt has become the defector data event system for IoT devices. Having a Mqtt control panel in Nextcloud means you don&#39;t need a separate login system or apps.]]></description>
     <version>0.0.1</version>
@@ -16,7 +16,7 @@
     </dependencies>
     <navigations>
         <navigation>
-            <name>M Q T Tcontrol Pannel</name>
+            <name>Mqtt Control Pannel</name>
             <route>mqttcontrolpannel.page.index</route>
         </navigation>
     </navigations>
