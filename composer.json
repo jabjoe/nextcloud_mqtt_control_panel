@@ -1,5 +1,5 @@
 {
-    "name": "M Q T Tcontrol Pannel",
+    "name": "MQTT Control Pannel",
     "description": "MQTT control pannel to view and send events",
     "type": "project",
     "license": "AGPL",
