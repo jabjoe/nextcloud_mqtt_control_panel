@@ -1,5 +1,5 @@
 <?php
-namespace OCA\MQTTcontrolPannel\Controller;
+namespace OCA\MqttControlPannel\Controller;
 
 use OCP\IRequest;
 use OCP\AppFramework\Http\TemplateResponse;

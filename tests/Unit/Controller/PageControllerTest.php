@@ -1,12 +1,12 @@
 <?php
 
-namespace OCA\MQTTcontrolPannel\Tests\Unit\Controller;
+namespace OCA\MqttControlPannel\Tests\Unit\Controller;
 
 use PHPUnit_Framework_TestCase;
 
 use OCP\AppFramework\Http\TemplateResponse;
 
-use OCA\MQTTcontrolPannel\Controller\PageController;
+use OCA\MqttControlPannel\Controller\PageController;
 
 
 class PageControllerTest extends PHPUnit_Framework_TestCase {

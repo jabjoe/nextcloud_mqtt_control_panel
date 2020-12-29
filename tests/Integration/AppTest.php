@@ -1,6 +1,6 @@
 <?php
 
-namespace OCA\MQTTcontrolPannel\Tests\Integration\Controller;
+namespace OCA\MqttControlPannel\Tests\Integration\Controller;
 
 use OCP\AppFramework\App;
 use Test\TestCase;
